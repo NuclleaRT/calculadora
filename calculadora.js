@@ -92,7 +92,6 @@ function random() {
     MostrarResultado(resultado);
 }
 
-
 function MostrarResultado(resultado){
     document.getElementById('textoResultado').value = resultado;
 }
